@@ -1,2 +1,3 @@
 # TwoDDdsKinvey
-Combine two datadirect datasources in Kinvey
+
+Flex Service that combines the result of two DataDirect datasources (Collections) in Kinvey
